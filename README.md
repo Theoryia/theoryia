@@ -5,7 +5,7 @@ My name is Theo, i am a software engineering student
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java]([https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white))&nbsp;
+![Java](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
