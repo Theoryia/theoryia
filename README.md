@@ -1,6 +1,8 @@
 ### Hello :)
 
-My name is Theo, i am a software engineering student 
+My name is Theo, i am a software engineering student currently in Portsmouth
+
+
 
 the favourites >&nbsp;
 
