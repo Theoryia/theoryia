@@ -16,6 +16,11 @@ My name is Theo, i am a software engineering student
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+### ⚙️ &nbsp;PC's
+![CPU](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+![Laptop](https://img.shields.io/badge/Windows-Acer_Aspire_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
