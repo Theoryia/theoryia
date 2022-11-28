@@ -1,6 +1,6 @@
 ### Hello :)
 
-My name is Theo, i am a software engineering student currently in Portsmouth
+My name is Theo, i am a 2nd year software engineering student currently in Portsmouth
 
 
 
