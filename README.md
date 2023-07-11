@@ -1,6 +1,6 @@
 ### Hello :)
 
-My name is Theo, i am a 2nd year software engineering student currently in Portsmouth
+My name is Theo, I am a 2nd year software engineering student currently in Portsmouth
 
 
 
@@ -19,17 +19,4 @@ the favourites >&nbsp;
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### ⚙️ &nbsp;PC
-![CPU](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### ⚙️ &nbsp;Laptop
-![Laptop](https://img.shields.io/badge/Windows-Acer_Aspire_7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theoryia&&theme=prussian"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Theoryia&layout=compact&langs_count=8&theme=prussian"/>
-</a>
 </p>
