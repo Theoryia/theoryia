@@ -1,6 +1,6 @@
 ### Hello :)
 
-My name is Theo, I'm a 3rd year software engineering student
+My name is Theo, I'm a graduate software engineer
 
 
 
