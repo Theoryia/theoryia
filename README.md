@@ -4,7 +4,7 @@ My name is Theo, I'm a graduate software engineer.
 
 
 
-## Languages in order >&nbsp;
+## Languages >&nbsp;
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
