@@ -1,4 +1,4 @@
 ### Hello :)
 
-My name is Theo, I'm a graduate software engineer.
+My name is Theo, I'm a data analyst
 
